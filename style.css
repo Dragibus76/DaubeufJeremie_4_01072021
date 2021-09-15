@@ -1053,3 +1053,8 @@ h4 {
     white-space: nowrap;
     border-width: 0;
   }
+
+  img{
+    vertical-align: middle;
+    margin: auto;
+  }
